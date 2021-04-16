@@ -1,0 +1,5 @@
+export const todoTypes = {
+    LOAD_TODO_REQUEST: "LOAD_TODO_REQUEST",
+    LOAD_TODO_LIST: "LOAD_TODO_LIST",
+    LOAD_ACTIVE_TODO: "LOAD_ACTIVE_TODO"
+};
